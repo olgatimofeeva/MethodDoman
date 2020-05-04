@@ -1,0 +1,14 @@
+D:\Doman\Doman\Doman\bin\Debug\netstandard2.0\Doman.deps.json
+D:\Doman\Doman\Doman\bin\Debug\netstandard2.0\Doman.dll
+D:\Doman\Doman\Doman\bin\Debug\netstandard2.0\ref\Doman.dll
+D:\Doman\Doman\Doman\bin\Debug\netstandard2.0\Doman.pdb
+D:\Doman\Doman\Doman\obj\Debug\netstandard2.0\Doman.csprojAssemblyReference.cache
+D:\Doman\Doman\Doman\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Doman\Doman\Doman\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Doman\Doman\Doman\obj\Debug\netstandard2.0\Doman.csproj.CoreCompileInputs.cache
+D:\Doman\Doman\Doman\obj\Debug\netstandard2.0\Doman.AssemblyInfoInputs.cache
+D:\Doman\Doman\Doman\obj\Debug\netstandard2.0\Doman.AssemblyInfo.cs
+D:\Doman\Doman\Doman\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Doman\Doman\Doman\obj\Debug\netstandard2.0\Doman.dll
+D:\Doman\Doman\Doman\obj\Debug\netstandard2.0\ref\Doman.dll
+D:\Doman\Doman\Doman\obj\Debug\netstandard2.0\Doman.pdb
